@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="IPTV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPTV_jar</output-path>
+    <root id="root">
+      <element id="archive" name="IPTV.jar">
+        <element id="module-output" name="IPTV" />
+        <element id="file-copy" path="$PROJECT_DIR$/source.txt" />
+        <element id="file-copy" path="$PROJECT_DIR$/channels.m3u" />
+        <element id="file-copy" path="$PROJECT_DIR$/vlc-help.txt" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/source.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/channels.m3u" />
+      <element id="file-copy" path="$PROJECT_DIR$/vlc-help.txt" />
+    </root>
+  </artifact>
+</component>

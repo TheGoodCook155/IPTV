@@ -1,0 +1,5 @@
+#Censored part#
+the m3u file is a media playlist file pointing to a stream on the Internet
+The stream exists in the following format. The format may differ and it may even hold private data such as usernames/passwords etc... passed as a parameters
+
+http://###########.##:PORT/#####/#####/######.ts
