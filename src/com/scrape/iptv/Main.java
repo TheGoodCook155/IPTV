@@ -7,36 +7,27 @@ import java.util.InputMismatchException;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * In order for this implementation to work you must set up the TEMP environment variable because the stream is stored locally in the %TEMP% folder and the file acts as a buffer
- * The Windows delimiter is used throughout the app so the app is not UNIX friendly
- * The piping is done through VLC (you must have VLC installed...Feel free to use another player(btw read the dev documentation) or build one by yourself)
- * Tested on WIN 10 and WIN 7 while using VPN
- * Parts of the app are censored due to obvious reasons
- * Use the code as an example on how to build IP TV stream app
- * There are a lot of improvements that can be done, and I may push some updates in the upcoming period
- *
- * Enjoy!
- */
-
 
 public class Main {
 
-   public static final String TV_CHANNELS = "channels.m3u";
+   public static final String TV_CHANNELS = "tv_channels_70057@loc@35992.m3u";
     public static String username = System.getProperty("user.name");
-    public static String channelURL = "";
+    public static String channelURL = ""; //this is the location
    public static final String VLC_LOCATION = "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe " + "C:\\Users\\" + username + "\\AppData\\Local\\Temp\\temp.ts";
-
 
     public static void main(String[] args) throws IOException {
 
         Data data = new Data(TV_CHANNELS);
 
        Map<String, String> channels = data.returnData();
+       channels.put(channels.size() + ".: ","Quit Program");
        Map<Integer,String> pickChannel = new HashMap<>();
         int counter = 1;
         boolean stopProgram = false;
         String command = "";
+
+        System.out.println("Pick a channel or type \"q\" or \"quit\" to quit the program" + "\n");
+
 
         Scanner scanner = new Scanner(System.in);
 
@@ -60,24 +51,33 @@ public class Main {
 
             if (isBetween(counter, 1, channels.size()) == true) {
 
-                int tempChannelPick = 0;
+                //watch TV
                 channelURL = pickChannel.get(counter);
-                StreamTV streamTV = new StreamTV(VLC_LOCATION);
-                Thread startVLCInstenceThread = new Thread(streamTV);
-                startVLCInstenceThread.start();
-                StoreStreamThread storeStreamThread = new StoreStreamThread(channelURL);
-                storeStreamThread.start();
+                SharedResource sharedResource = new SharedResource(channelURL,VLC_LOCATION,0);
+                Store storeThread = new Store(sharedResource);
+                LaunchVLC launchVLCThread = new LaunchVLC(sharedResource);
+
+
+                storeThread.start();
+                launchVLCThread.start();
+
+
+                int tempChannelPick = 0;
                 counter = 1;
-                if (startVLCInstenceThread.isAlive() && storeStreamThread.isAlive()){
+
+
+                if (storeThread.isAlive() && launchVLCThread.isAlive()){
                     tempChannelPick = counter;
+
                 }
 
                 if (tempChannelPick != counter){
-                    startVLCInstenceThread.stop();
-                    storeStreamThread.stop();
+                    storeThread.stop();
+                    launchVLCThread.stop();
                 }
 
             } else {
+                //kill the app
                 stopProgram = true;
                 Runtime runtime = Runtime.getRuntime();
                 Process process = runtime.exec("TASKKILL /IM VLC.EXE");

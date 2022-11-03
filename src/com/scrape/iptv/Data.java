@@ -5,12 +5,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
-/**
- * Class for channels preparation (printing in main() + pointing to the stream)
- */
 
 public class Data {
 
@@ -36,6 +33,7 @@ public class Data {
             String channelLine = scanner.nextLine();
 
             if (channelLine.contains("#EXTINF:-1")){
+                //todo channel name
                 channelName = channelLine.replace("#EXTINF:-1,","").trim();
               if (isPair == true){
                   isPair = false;
@@ -61,6 +59,7 @@ public class Data {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
 
         return channels;
     }
