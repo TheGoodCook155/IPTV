@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1,Кабел Нет Инфо канал HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/46.ts
+#EXTINF:-1,MTB 1 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/2.ts
+#EXTINF:-1,MTB 1
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/122.ts
+#EXTINF:-1,Собраниски канал HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/3.ts
+#EXTINF:-1,Собраниски канал
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/123.ts
+#EXTINF:-1,MTB 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/150.ts
+#EXTINF:-1,MTB 3 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/136.ts
+#EXTINF:-1,MTB 4
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/137.ts
+#EXTINF:-1,MTB 5
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/138.ts
+#EXTINF:-1,Сител HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/44.ts
+#EXTINF:-1,Сител
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/4.ts
+#EXTINF:-1,Канал 5 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/141.ts
+#EXTINF:-1,Канал 5
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/6.ts
+#EXTINF:-1,Алфа ТВ
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/13.ts
+#EXTINF:-1,Телма HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/149.ts
+#EXTINF:-1,Телма
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/12.ts
+#EXTINF:-1,24 Вести
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/14.ts
+#EXTINF:-1,Наша ТВ
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/15.ts
+#EXTINF:-1,Тера HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/22.ts
+#EXTINF:-1,Сонце ТВ
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/25.ts
+#EXTINF:-1,Алсат М
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/24.ts
+#EXTINF:-1,TV Shenja HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/134.ts
+#EXTINF:-1,N1 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/53.ts
+#EXTINF:-1,Al Jazeera Balkans HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/59.ts
+#EXTINF:-1,Russia Today HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/108.ts
+#EXTINF:-1,CNN
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/89.ts
+#EXTINF:-1,RAI 1
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/90.ts
+#EXTINF:-1,RTL 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/91.ts
+#EXTINF:-1,TRT Turk
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/104.ts
+#EXTINF:-1,RTS 1 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/127.ts
+#EXTINF:-1,RTS 2 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/128.ts
+#EXTINF:-1,RTS 3 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/129.ts
+#EXTINF:-1,RTS Svet
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/51.ts
+#EXTINF:-1,HRT 1 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/36.ts
+#EXTINF:-1,HRT 3 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/37.ts
+#EXTINF:-1,Nova s HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/131.ts
+#EXTINF:-1,Prva TV
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/61.ts
+#EXTINF:-1,Prva World
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/64.ts
+#EXTINF:-1,Prva MAX
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/65.ts
+#EXTINF:-1,b92
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/62.ts
+#EXTINF:-1,Happy
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/63.ts
+#EXTINF:-1,Happy Parovi 1
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/66.ts
+#EXTINF:-1,Happy Parovi 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/67.ts
+#EXTINF:-1,Fox
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/26.ts
+#EXTINF:-1,Fox Life
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/27.ts
+#EXTINF:-1,Fox Crime
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/28.ts
+#EXTINF:-1,Fox Movies
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/29.ts
+#EXTINF:-1,CineStar TV
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/30.ts
+#EXTINF:-1,CineStar TV Action
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/31.ts
+#EXTINF:-1,AXN
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/33.ts
+#EXTINF:-1,Sci Fi
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/35.ts
+#EXTINF:-1,TV 1000
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/34.ts
+#EXTINF:-1,AMC Movies
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/74.ts
+#EXTINF:-1,DIVA
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/76.ts
+#EXTINF:-1,Cinemania
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/32.ts
+#EXTINF:-1,Epic Drama HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/135.ts
+#EXTINF:-1,FilmBox Plus
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/47.ts
+#EXTINF:-1,FilmBox Extra HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/48.ts
+#EXTINF:-1,FilmBox Arhouse
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/151.ts
+#EXTINF:-1,Tring Super HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/116.ts
+#EXTINF:-1,Tring Life
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/117.ts
+#EXTINF:-1,Tring Action MK
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/118.ts
+#EXTINF:-1,Tring Comedy
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/119.ts
+#EXTINF:-1,Tring Fantasy MK
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/120.ts
+#EXTINF:-1,Jolly HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/121.ts
+#EXTINF:-1,Sport Klub HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/156.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/17.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/18.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/16.ts
+#EXTINF:-1,Sport Klub 4 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/21.ts
+#EXTINF:-1,Sport Klub 5 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/20.ts
+#EXTINF:-1,Sport Klub 6 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/19.ts
+#EXTINF:-1,Sport Klub 7 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/157.ts
+#EXTINF:-1,Sport Klub 8 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/158.ts
+#EXTINF:-1,Sport Klub 9 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/159.ts
+#EXTINF:-1,Sport Klub 10 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/160.ts
+#EXTINF:-1,Sport Klub Golf
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/110.ts
+#EXTINF:-1,Eurosport HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/10.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/9.ts
+#EXTINF:-1,Extreme Sport
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/81.ts
+#EXTINF:-1,Fight Box HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/103.ts
+#EXTINF:-1,SK Fight
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/83.ts
+#EXTINF:-1,SK Esports
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/132.ts
+#EXTINF:-1,Nova Sport HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/155.ts
+#EXTINF:-1,Discovery Channel
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/38.ts
+#EXTINF:-1,Discovery Science
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/39.ts
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/113.ts
+#EXTINF:-1,ID Xtra HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/112.ts
+#EXTINF:-1,Animal Planet
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/40.ts
+#EXTINF:-1,National Geographic
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/41.ts
+#EXTINF:-1,Nat Geo Wild
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/139.ts
+#EXTINF:-1,Viasat History HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/73.ts
+#EXTINF:-1,Viasat Explore HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/72.ts
+#EXTINF:-1,Viasat Nature HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/50.ts
+#EXTINF:-1,History Channel
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/43.ts
+#EXTINF:-1,TLC Balkan HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/92.ts
+#EXTINF:-1,HGTV HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/142.ts
+#EXTINF:-1,Da Vinci Learning
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/78.ts
+#EXTINF:-1,Brainz
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/148.ts
+#EXTINF:-1,CBS Reality
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/80.ts
+#EXTINF:-1,Lov i Ribolov
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/82.ts
+#EXTINF:-1,DocuBox HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/49.ts
+#EXTINF:-1,24 Kitchen
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/79.ts
+#EXTINF:-1,Russia Doc HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/109.ts
+#EXTINF:-1,Boomerang
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/70.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/69.ts
+#EXTINF:-1,Jim Jam
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/99.ts
+#EXTINF:-1,Pikaboo
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/85.ts
+#EXTINF:-1,Vavoom
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/77.ts
+#EXTINF:-1,MTV Hits
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/54.ts
+#EXTINF:-1,MTV Dance
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/55.ts
+#EXTINF:-1,MTV 90s
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/56.ts
+#EXTINF:-1,MTV Adria
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/101.ts
+#EXTINF:-1,MTV 00s
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/57.ts
+#EXTINF:-1,MTV 80s
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/58.ts
+#EXTINF:-1,IDJ TV HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/84.ts
+#EXTINF:-1,Balkan Music
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/130.ts
+#EXTINF:-1,Grand
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/86.ts
+#EXTINF:-1,Grand 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/87.ts
+#EXTINF:-1,DM Sat
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/114.ts
+#EXTINF:-1,Svet Plus
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/95.ts
+#EXTINF:-1,Kopernikus 1
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/96.ts
+#EXTINF:-1,Kopernikus 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/97.ts
+#EXTINF:-1,OTV Valentino
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/98.ts
+#EXTINF:-1,Planeta TV
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/52.ts
+#EXTINF:-1,Planeta Folk
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/107.ts
+#EXTINF:-1,Balkanika
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/60.ts
+#EXTINF:-1,FAN TV
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/88.ts
+#EXTINF:-1,E! Entertainment HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/71.ts
+#EXTINF:-1,Fast & FunBox HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/100.ts
+#EXTINF:-1,World Fashion HD
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/106.ts
+#EXTINF:-1,Fashion Box
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/102.ts
+#EXTINF:-1,Pink Plus
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/169.ts
+#EXTINF:-1,Pink Extra
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/170.ts
+#EXTINF:-1,Pink Film
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/171.ts
+#EXTINF:-1,Pink Serije
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/172.ts
+#EXTINF:-1,Pink Music
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/173.ts
+#EXTINF:-1,Pink Music 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/174.ts
+#EXTINF:-1,Pink Folk
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/175.ts
+#EXTINF:-1,Pink Folk 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/176.ts
+#EXTINF:-1,Bravo Music
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/180.ts
+#EXTINF:-1,City Play
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/181.ts
+#EXTINF:-1,Pink Hits 1
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/177.ts
+#EXTINF:-1,Pink Hits 2
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/178.ts
+#EXTINF:-1,Pink & Roll
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/182.ts
+#EXTINF:-1,Pink Koncert
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/179.ts
+#EXTINF:-1,Pink Show
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/183.ts
+#EXTINF:-1,Pink Zabava
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/184.ts
+#EXTINF:-1,Pink World
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/185.ts
+#EXTINF:-1,Pink Fashion
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/186.ts
+#EXTINF:-1,Pink Reality
+http://iptv.kabelnet.com.mk:17009/live/70057@loc@35992/112524@loc@35992/187.ts
